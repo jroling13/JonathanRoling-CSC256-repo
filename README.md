@@ -1,1 +1,1 @@
-# JonathanRoling-CSC256-repo
+Repo for CSC-256 assignments
